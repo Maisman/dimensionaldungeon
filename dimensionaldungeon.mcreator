@@ -8,22 +8,13 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "Testfor2",
-      "type": "tab",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabtestformod": "Test For Mod",
-      "itemGroup.tabtestfor2": "Testfor2"
+      "itemGroup.tabtestformod": "Test For Mod"
     }
   },
   "workspaceSettings": {
